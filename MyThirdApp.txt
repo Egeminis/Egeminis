@@ -1,6 +1,2 @@
 My new File
 My new File 2
-<<<<<<< HEAD
-=======
-My new File 3
->>>>>>> Edwin
